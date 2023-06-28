@@ -1,0 +1,73 @@
+body{
+  
+}
+
+header{background-image: url(Sin\ nombre.png);
+
+   
+    margin: 0%;
+}
+.bienvenidos{
+    display: flex;
+    justify-content: center;
+    font-style:unset;
+
+font-size:  150px;
+color: white;
+
+}
+
+
+    .blanco{
+        color: aliceblue; !important¡
+        width: ;
+        
+      
+        
+    }
+
+    
+  
+    .hola{
+        background-color: rgb(17, 133, 235);
+       
+
+    }
+
+    .btn-wsp{
+      
+
+        position: fixed;
+        bottom: 30px;
+        background-color:white;
+        border-radius: 50%;
+        text-align:center;
+    }
+
+    .wsp{
+        display: flex;
+        justify-content: end;
+    }
+
+
+ footer{
+    display: flex; 
+    justify-content: space-around;
+    background-image: url(Sin\ nombre.png);
+    
+ }
+ .mapa{
+
+    border-color: black;
+    border-top: 4px;
+    margin: 20px;
+    
+    
+ }
+ .final{
+
+    font-size: 20px;
+
+ }
+ 
+ 
